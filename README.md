@@ -6,11 +6,10 @@ Hello, I'm Terrance, and I am passionate about cybersecurity and moving into pro
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/TerrCyber/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Potential Impossible Travel](https://github.com/TerrCyber/microsoft-sentinel-impossible-travel-lab)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
 
 <hr/>
 
