@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/terrance-fortson-a1a05a156/">Terrance Fortson</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Hello, I'm Terrance, and I am passionate about cybersecurity and moving into projects to help further my knowledge and career in the space. 
+Hello, I'm Terrance, and I am passionate about cybersecurity and moving into projects to help further my knowledge and career in the space. Im learning threat hunting and vulnerability management while utilizes the cloud.
 
 
 ## ⚠️ Vulnerability Management Projects
