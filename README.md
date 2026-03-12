@@ -10,6 +10,7 @@ Hello, I'm Terrance, and I am passionate about cybersecurity and moving into pro
 ## 🚨 Threat Hunting and Security Operations
 - **[SOC Threat Hunt Investigation: Unauthorized TOR Browser Usage Detection](https://github.com/TerrCyber/threat-hunting-scenario-tor)**
 - **[Potential Impossible Travel](https://github.com/TerrCyber/microsoft-sentinel-impossible-travel-lab)**
+- **[Brute-Force Rule Detection](https://github.com/TerrCyber/sentinel-threat-hunt-brute-force/tree/main)**
 
 
 <hr/>
